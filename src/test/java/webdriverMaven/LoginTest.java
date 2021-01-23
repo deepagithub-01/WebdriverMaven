@@ -24,6 +24,8 @@ public class LoginTest {
 		driver.findElement(By.id("nav-cart-count")).click();
 		driver.findElement(By.xpath("(//span[@class=\"a-size-base-plus\"])[2]")).click();
 		
+		//new comment
+		
 		
 	}
 	
